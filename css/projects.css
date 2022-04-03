@@ -1,0 +1,27 @@
+.project-heading{
+    font-family: 'DM Sans', sans-serif;
+    font-size: 25px;
+}
+.project{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pro-img{
+    width: 40vh;
+    clip-path: circle(40%);
+}
+.pro-div-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 3px solid red; */
+    /* margin: 10 10vw; */
+}
+body{
+    min-height: 100vh;
+}
+.fa fa-facebook{
+    width: 20vw;
+}
+  

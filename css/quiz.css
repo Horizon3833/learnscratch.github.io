@@ -1,0 +1,25 @@
+.quiz-part-1{
+    font-size: 25px;
+    margin: 0 5vw;
+}
+.part1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.button{
+    width: 20vw;
+    height: 5vh;
+    border: 3px solid red;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.quiz-part-1{
+    border: 5px solid rgb(18, 149, 236);
+}
+.margin{
+    margin: 0 3vw ;
+}
